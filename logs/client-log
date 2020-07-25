@@ -155,3 +155,4 @@ Hit CTRL-C to stop the server
 [2020-07-25T08:20:11.591Z]  "[36mGET[39m [36m/script.js[39m" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36"
 [2020-07-25T08:20:12.063Z]  "[36mGET[39m [36m/favicon.ico[39m" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36"
 [2020-07-25T08:20:33.119Z]  "[36mGET[39m [36m/?participant_ID=1f9909e9-6196-470b-9eb5-09b0d66e7d88&experimenter_ID_code=1&laboratory_ID_code=1&experimenter_email=dsa&available_trial_type=7&session_type=online&in_lab=0[39m" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36"
+[2020-07-25T08:51:52.748Z]  "[36mGET[39m [36m/[39m" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36"
