@@ -1,14 +1,20 @@
 [33mStarting up http-server, serving [39m[36m.[39m[33m[39m
 [33mAvailable on:[39m
   http://127.0.0.1:[32m8080[39m
-  http://192.168.0.12:[32m8080[39m
+  http://192.168.1.15:[32m8080[39m
 Hit CTRL-C to stop the server
-[2020-08-09T08:47:15.031Z]  "[36mGET[39m [36m/[39m" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36"
-[2020-08-09T08:47:15.119Z]  "[36mGET[39m [36m/style.css[39m" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36"
-[2020-08-09T08:47:15.169Z]  "[36mGET[39m [36m/backend-adapter.js[39m" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36"
-[2020-08-09T08:47:15.189Z]  "[36mGET[39m [36m/keys.js[39m" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36"
-[2020-08-09T08:47:15.474Z]  "[36mGET[39m [36m/script.js[39m" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36"
-[2020-08-09T08:47:16.465Z]  "[36mGET[39m [36m/favicon.ico[39m" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36"
-[2020-08-09T08:47:21.282Z]  "[36mGET[39m [36m/[39m" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36"
-[2020-08-09T08:47:22.113Z]  "[36mGET[39m [36m/favicon.ico[39m" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36"
-[2020-08-09T08:47:32.030Z]  "[36mGET[39m [36m/?participant_ID=a972d005-3c4d-403c-ac2b-a7cc1f9ed01f&choosenLang=1_English&experimenter_ID_code=1&laboratory_ID_code=1&experimenter_email=dsa&available_trial_type=7&in_lab=0&session_type=online[39m" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36"
+[2020-08-22T12:48:06.358Z]  "[36mGET[39m [36m/[39m" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36"
+[2020-08-22T12:48:07.277Z]  "[36mGET[39m [36m/favicon.ico[39m" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36"
+[2020-08-22T12:48:18.517Z]  "[36mGET[39m [36m/[39m" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36"
+[2020-08-22T12:48:19.467Z]  "[36mGET[39m [36m/favicon.ico[39m" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36"
+[2020-08-22T12:50:53.998Z]  "[36mGET[39m [36m/[39m" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36"
+[2020-08-22T12:50:54.107Z]  "[36mGET[39m [36m/style.css[39m" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36"
+[2020-08-22T12:50:54.124Z]  "[36mGET[39m [36m/backend-adapter.js[39m" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36"
+[2020-08-22T12:50:54.125Z]  "[36mGET[39m [36m/keys.js[39m" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36"
+[2020-08-22T12:50:54.522Z]  "[36mGET[39m [36m/script.js[39m" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36"
+[2020-08-22T12:50:55.804Z]  "[36mGET[39m [36m/favicon.ico[39m" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36"
+[2020-08-22T12:51:10.843Z]  "[36mGET[39m [36m/?participant_ID=8491db6d-2465-46dc-9038-fb41bfbab07d&choosenLang=1_English&experimenter_ID_code=1&laboratory_ID_code=1&experimenter_email=dsasd&available_trial_type=7&in_lab=0&neededReward=false&session_type=online[39m" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36"
+[2020-08-22T12:51:42.258Z]  "[36mGET[39m [36m/?participant_ID=5b4aace4-80d5-4a28-900c-88ba628da3f0&choosenLang=1_English&experimenter_ID_code=test_exo_ELTE&laboratory_ID_code=test_lab_ELTE&experimenter_email=lkjhgfghjk&available_trial_type=7&in_lab=0&neededReward=false&session_type=online[39m" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36"
+[2020-08-22T12:52:06.473Z]  "[36mGET[39m [36m/?participant_ID=4d4a8edf-5a6d-4d1b-a270-3a8528ff263e&choosenLang=1_English&experimenter_ID_code=1&laboratory_ID_code=1&experimenter_email=asdf&available_trial_type=7&in_lab=0&neededReward=false&session_type=online[39m" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36"
+[2020-08-22T12:52:52.605Z]  "[36mGET[39m [36m/?participant_ID=4d4a8edf-5a6d-4d1b-a270-3a8528ff263e&choosenLang=1_English&experimenter_ID_code=1&laboratory_ID_code=1&experimenter_email=asdf&available_trial_type=7&in_lab=0&neededReward=false&session_type=online[39m" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36"
+[2020-08-22T12:52:53.890Z]  "[36mGET[39m [36m/favicon.ico[39m" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36"
